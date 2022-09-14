@@ -1,8 +1,8 @@
-# Welcome to the game: Guess my number! 👋
+# Welcome to the game: Dice Roll! 👋
 
 ## Link
 
-- Live Site URL: [https://saadmalik200.github.io/guess-my-number-game/](https://saadmalik200.github.io/guess-my-number-game/)
+- Live Site URL: [https://saadmalik200.github.io/dice-game/](https://saadmalik200.github.io/dice-game/)
 
 ## Challenge
 
@@ -14,8 +14,10 @@
 
 ## Rules
 
-- Computer comes up with a secret number, and the player tries to guess it.
+- Player 1 rolls the dice and hold the score or roll the dice again.
 
-- After each guess, the player will get a hint to help them guess better next time around.
+- Player 2 rolls the dice and hold the score or roll the dice again.
 
-- Once the player has guessed the secret number correctly, display a message to congratulate them.
+- After each hold, the other player will roll the dice again.
+
+- Once the player has reached 100 score, that player wins.
